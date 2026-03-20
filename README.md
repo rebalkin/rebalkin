@@ -1,12 +1,12 @@
 # Hi, I'm Reuven 👋
 
-I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), moving into **AI/ML research**. My background in BSM phenomenology — EFTs, collider physics, perturbative methods — gives me a strong foundation for working on the mathematical and theoretical side of machine learning.
+I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), moving into **AI/ML research**. I have a strong publication record in high-energy theory and phenomenology, and a growing research focus on the mathematical structure of neural networks.
 
 ---
 
 ## 🔭 Research Background
 
-My physics research focuses on **beyond the Standard Model (BSM) phenomenology** — including new physics at colliders, effective field theories, and signatures of BSM physics in precision observables. I have 17 publications (3 under review), spanning collider phenomenology, EFT methods, and connections to dark matter and Higgs physics.
+My physics research focuses on **beyond the Standard Model (BSM) phenomenology** of particle physics — including new physics at colliders, effective field theories, and signatures of BSM physics in precision observables. spanning collider phenomenology, EFT methods, and connections to dark matter and Higgs physics.
 
 Recently, my interests have shifted toward the **mathematical foundations of machine learning**: how neural network representations form, how loss landscapes behave, and what phase transitions in toy models reveal about generalization in real networks.
 

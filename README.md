@@ -8,6 +8,8 @@ I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from T
 
 My physics research focuses on **beyond the Standard Model (BSM) phenomenology** - collider signatures of new physics, effective field theories, dark matter, and Higgs physics.
 
+Publications: [INSPIRE](https://inspirehep.net/authors/1657351?ui-citation-summary=true) · [Google Scholar](https://scholar.google.com/citations?user=W6hH4GAAAAAJ&hl=en)
+
 Recently, my interests have shifted toward **machine learning research** broadly - including LLMs, the mathematical foundations of deep learning, how neural network representations form, and what phase transitions in toy models reveal about generalization.
 
 ---
@@ -17,7 +19,7 @@ Recently, my interests have shifted toward **machine learning research** broadly
 ### Neural Network Theory
 - Analytical study of **loss landscapes and phase transitions** in toy models of superposition (inspired by Elhage et al., *Toy Models of Superposition*)
 - Derived closed-form conditions for transitions between dedicated-dimension and superposition representations in ReLU networks
-- Writing up for TMLR
+- Manuscript in preparation
 
 ### Automatic Keyword Tagging for hep-ph Papers
 - Multilabel classification of hep-ph papers using title and abstract as input, predicting keywords from a curated vocabulary derived from INSPIRE-HEP metadata

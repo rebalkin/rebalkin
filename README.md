@@ -15,9 +15,9 @@ Recently, my interests have shifted toward **machine learning research** broadly
 ## 🤖 AI / ML Projects
 
 ### Neural Network Theory
-- Analytical study of **loss landscapes and phase transitions** in toy models of superposition (inspired by Anthropic's *Toy Models of Superposition*)
+- Analytical study of **loss landscapes and phase transitions** in toy models of superposition (inspired by Elhage et al., *Toy Models of Superposition*)
 - Derived closed-form conditions for transitions between dedicated-dimension and superposition representations in ReLU networks
-- Verifying results symbolically with SymPy; writing up for TMLR
+- Writing up for TMLR
 
 ### Automatic Keyword Tagging for hep-ph Papers
 - Multilabel classification of hep-ph papers using title and abstract as input, predicting keywords from a curated vocabulary derived from INSPIRE-HEP metadata

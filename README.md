@@ -1,6 +1,6 @@
 # Hi, I'm Reuven!
 
-I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), working on **AI/ML research** and quantitative modeling. My background is in mathematical modeling, analytical derivations, and large-scale numerical methods, with projects in ML theory, natural language processing, and financial modeling.
+I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), working on **AI/ML research** and quantitative modeling, with projects in ML theory, natural language processing, and financial modeling.
 
 I'm currently seeking **AI/ML research and quantitative research roles** in the Bay Area.
 
@@ -24,11 +24,11 @@ Publications: [INSPIRE](https://inspirehep.net/authors/1657351?ui-citation-summa
 ## 📈 Quantitative Finance
 
 ### [Heston Stochastic Volatility Model](https://github.com/rebalkin/Quant-portfolio/blob/main/notebooks/heston.ipynb)
-- Implemented the full Heston model pipeline: Monte Carlo simulation, semi-analytic pricing via characteristic functions, and calibration to live market option chain data (AMZN, GOOG, AMD)
-- Validated MC convergence against analytic prices; relative pricing error reaches 10^-3 to 10^-4 at 10^5 paths, consistent with expected 1/sqrt(N) scaling; calibrated parameters with separate fits for short- and long-dated expiries
+- Implemented the full Heston model pipeline: Monte Carlo simulation, semi-analytic pricing via characteristic functions, and calibration to market option data (AMZN, GOOG, AMD)
+- Validated MC convergence against analytic prices: relative pricing error reaches 1e-3 to 1e-4 at 1e5 paths, consistent with expected 1/sqrt(N) scaling; separate fits for short- and long-dated expiries
 - Built modular library (`black_scholes`, `heston`, `heston_calib`) for reusable pricing and calibration workflows
 
-More projects in [Quant-portfolio](https://github.com/rebalkin/Quant-portfolio). Background includes the Erdos Institute quant finance bootcamp and independent study in derivatives pricing.
+More projects in [Quant-portfolio](https://github.com/rebalkin/Quant-portfolio).
 
 ---
 

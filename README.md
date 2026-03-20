@@ -1,6 +1,6 @@
 # Hi, I'm Reuven 👋
 
-I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), transitioning into **AI/ML research** and **quantitative finance**. My work sits at the intersection of rigorous mathematical structure and computational modeling.
+I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), moving into **AI/ML research**. My background in BSM phenomenology — EFTs, collider physics, perturbative methods — gives me a strong foundation for working on the mathematical and theoretical side of machine learning.
 
 ---
 
@@ -8,7 +8,7 @@ I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from T
 
 My physics research focuses on **beyond the Standard Model (BSM) phenomenology** — including new physics at colliders, effective field theories, and signatures of BSM physics in precision observables. I have 17 publications (3 under review), spanning collider phenomenology, EFT methods, and connections to dark matter and Higgs physics.
 
-Recently, my interests have broadened toward the **mathematical foundations of machine learning**: how neural network representations form, how loss landscapes behave, and what phase transitions in toy models reveal about generalization in real networks.
+Recently, my interests have shifted toward the **mathematical foundations of machine learning**: how neural network representations form, how loss landscapes behave, and what phase transitions in toy models reveal about generalization in real networks.
 
 ---
 
@@ -25,13 +25,9 @@ Recently, my interests have broadened toward the **mathematical foundations of m
 
 ---
 
-## 📈 Quantitative Finance Interests
+## 📈 Quantitative Research Interests
 
-The physics toolkit — stochastic processes, statistical mechanics, large-deviation theory — maps naturally onto quantitative modeling. Current areas of interest:
-
-- Connections between **statistical physics** and stochastic volatility models
-- **Phase transition** analogies in market microstructure
-- ML methods for financial time series
+The physics toolkit — stochastic processes, statistical mechanics, large-deviation theory — maps naturally onto quantitative modeling. Secondary interests include stochastic volatility models, phase transition analogies in market microstructure, and ML methods for financial time series.
 
 ---
 
@@ -45,6 +41,6 @@ Physics methods: EFT · perturbation theory · RG flow · Monte Carlo · path in
 
 ## 📬 Get in Touch
 
-Open to roles in **AI/ML research** and **quantitative research** in the Bay Area.
+Open to AI/ML research roles in the Bay Area.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)

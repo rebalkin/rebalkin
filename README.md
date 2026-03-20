@@ -1,16 +1,14 @@
 # Hi, I'm Reuven 👋
 
-I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), currently making the leap into **AI/ML research** and **quantitative finance**. I love building bridges between rigorous mathematical theory and modern machine learning.
-
-When I'm not at a whiteboard, I'm at home with my wife Tal and our three kids — usually explaining why dinner is a phase transition.
+I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), transitioning into **AI/ML research** and **quantitative finance**. My work sits at the intersection of rigorous mathematical structure and computational modeling.
 
 ---
 
 ## 🔭 Research Background
 
-My physics career spans **quantum field theory**, **condensed matter**, and **statistical mechanics** — with 17 publications (3 under review). Lately my interests have shifted toward the mathematics of neural networks: how representations form, how loss landscapes behave, and what phase transitions in toy models can tell us about real networks.
+My physics research focuses on **beyond the Standard Model (BSM) phenomenology** — including new physics at colliders, effective field theories, and signatures of BSM physics in precision observables. I have 17 publications (3 under review), spanning collider phenomenology, EFT methods, and connections to dark matter and Higgs physics.
 
-I'm particularly drawn to **mechanistic interpretability** and the theory behind why neural networks generalize at all.
+Recently, my interests have broadened toward the **mathematical foundations of machine learning**: how neural network representations form, how loss landscapes behave, and what phase transitions in toy models reveal about generalization in real networks.
 
 ---
 
@@ -19,17 +17,17 @@ I'm particularly drawn to **mechanistic interpretability** and the theory behind
 ### Neural Network Theory
 - Analytical study of **loss landscapes and phase transitions** in toy models of superposition (inspired by Anthropic's *Toy Models of Superposition*)
 - Derived closed-form conditions for transitions between dedicated-dimension and superposition representations in ReLU networks
-- Verified results symbolically with SymPy; writing up for a theory venue (TMLR)
+- Verifying results symbolically with SymPy; writing up for TMLR
 
 ### Learning by Doing
-- Working through Karpathy's *Zero to Hero* series — implementing backprop, batch norm gradients, and character-level MLPs from scratch in PyTorch
-- Goal: build intuition from the ground up, not just use the APIs
+- Working through Karpathy's *Zero to Hero* series — implementing backpropagation, batch norm gradients, and character-level MLPs from scratch in PyTorch
+- Focus on building ground-up understanding rather than surface-level API familiarity
 
 ---
 
 ## 📈 Quantitative Finance Interests
 
-My physics toolkit — stochastic processes, statistical mechanics, large-deviation theory — maps naturally onto quantitative modeling. I'm actively exploring:
+The physics toolkit — stochastic processes, statistical mechanics, large-deviation theory — maps naturally onto quantitative modeling. Current areas of interest:
 
 - Connections between **statistical physics** and stochastic volatility models
 - **Phase transition** analogies in market microstructure
@@ -41,16 +39,12 @@ My physics toolkit — stochastic processes, statistical mechanics, large-deviat
 
 `Python` · `PyTorch` · `NumPy / SciPy` · `SymPy` · `Mathematica` · `C++` · `LaTeX` · `Git`
 
-Physics methods: RG flow · path integrals · mean field theory · Monte Carlo · perturbation theory
+Physics methods: EFT · perturbation theory · RG flow · Monte Carlo · path integrals
 
 ---
 
-## 📬 Let's Connect
+## 📬 Get in Touch
 
-I'm actively looking for roles in **AI/ML research** and **quantitative research** in the Bay Area.
+Open to roles in **AI/ML research** and **quantitative research** in the Bay Area.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reuven-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-
----
-
-*"The most exciting phrase to hear in science isn't 'Eureka!' — it's 'That's funny, the minimum is at θ = 0 and θ = π/2...'"*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)

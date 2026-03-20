@@ -1,4 +1,4 @@
-# Hi, I'm Reuven 👋
+# Hi, I'm Reuven!
 
 I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), transitioning into **AI/ML research**. I have a strong publication record in high-energy theory and phenomenology, and growing interests across ML theory, LLMs, and neural network representations.
 

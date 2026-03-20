@@ -1,16 +1,20 @@
 # Hi, I'm Reuven 👋
 
-I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), moving into **AI/ML research**. I have a strong publication record in high-energy theory and phenomenology, and growing interests across ML theory, LLMs, and neural network representations.
-
----
-
-## 🔭 Research Background
-
-My physics research focuses on **beyond the Standard Model (BSM) phenomenology** - collider signatures of new physics, effective field theories, dark matter, and Higgs physics.
+I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), actively building toward **AI/ML research** and **quantitative finance**. I have a strong publication record in high-energy theory and phenomenology, and growing interests across ML theory, LLMs, and neural network representations.
 
 Publications: [INSPIRE](https://inspirehep.net/authors/1657351?ui-citation-summary=true) · [Google Scholar](https://scholar.google.com/citations?user=W6hH4GAAAAAJ&hl=en)
 
+---
+
+## 🔭 Physics Research
+
+My research focuses on **beyond the Standard Model (BSM) phenomenology** - collider signatures of new physics, effective field theories, dark matter, and Higgs physics.
+
 Recently, my interests have shifted toward **machine learning research** broadly - including LLMs, the mathematical foundations of deep learning, how neural network representations form, and what phase transitions in toy models reveal about generalization.
+
+### Selected Research Repos
+- [ALPs-in-kaon-decays](https://github.com/rebalkin/ALPs-in-kaon-decays) - Mathematica code for ALP phenomenology in kaon decays
+- [B-and-D-decays-in-FASER-and-CHARM](https://github.com/rebalkin/B-and-D-decays-in-FASER-and-CHARM) - Signal predictions for B and D meson decays at FASER and CHARM
 
 ---
 
@@ -26,21 +30,26 @@ Recently, my interests have shifted toward **machine learning research** broadly
 - Built a full pipeline: data collection via the INSPIRE API, label cleaning and vocabulary construction, TF-IDF feature extraction, and SGD-based logistic regression with One-vs-Rest
 - Systematic sweep over regularization strength and decision thresholds; evaluated with micro- and macro-averaged F1
 
-### Learning by Doing
+### Implementation Projects
 - Working through Karpathy's *Zero to Hero* series - implementing backpropagation, batch norm gradients, and character-level MLPs from scratch in PyTorch
-- Focus on building ground-up understanding rather than surface-level API familiarity
+- Focus on building ground-up understanding of the mechanics of modern deep learning
 
 ---
 
-## 📈 Quantitative Research Interests
+## 📈 Quantitative Finance
 
-The physics toolkit - stochastic processes, statistical mechanics, large-deviation theory - maps naturally onto quantitative modeling. Secondary interests include stochastic volatility models, phase transition analogies in market microstructure, and ML methods for financial time series.
+I completed the **Erdos Institute quant finance bootcamp** and have been doing independent study in derivatives pricing and stochastic volatility modeling. Projects in my [Quant-portfolio](https://github.com/rebalkin/Quant-portfolio) repo include:
+
+### Heston Stochastic Volatility Model
+- Implemented the full Heston model pipeline: Monte Carlo simulation, semi-analytic pricing via characteristic functions, and calibration to live market option chain data (AMZN, GOOG, AMD)
+- Validated MC convergence against analytic prices; calibrated parameters using `scipy.optimize.least_squares` with separate fits for short- and long-dated expiries
+- Built modular library (`black_scholes`, `heston`, `heston_calib`) for reusable pricing and calibration workflows
 
 ---
 
 ## 🛠️ Tools & Skills
 
-`Python` · `PyTorch` · `NumPy / SciPy` · `SymPy` · `Mathematica` · `C++` · `LaTeX` · `Git`
+`Python` · `PyTorch` · `NumPy / SciPy` · `Mathematica` · `C++` · `LaTeX` · `Git`
 
 Physics methods: EFT · perturbation theory · RG flow · Monte Carlo · path integrals
 
@@ -48,6 +57,6 @@ Physics methods: EFT · perturbation theory · RG flow · Monte Carlo · path in
 
 ## 📬 Get in Touch
 
-Open to AI/ML research roles in the Bay Area.
+Open to AI/ML research and quantitative research roles in the Bay Area.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)

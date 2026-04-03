@@ -14,6 +14,11 @@ Publications: [INSPIRE](https://inspirehep.net/authors/1657351?ui-citation-summa
 - Analytical and numerical study of **loss landscapes and phase transitions** in toy models of superposition (inspired by Elhage et al., *Toy Models of Superposition*)
 - Derived closed-form conditions for transitions between dedicated-dimension and superposition representations in ReLU networks; validated numerically
 
+### [Scientific Impact and Novelty in Theoretical Particle Physics](https://github.com/rebalkin/ML/tree/main/hep_ph_impact_novelty)
+- Analysis of ~140,000 hep-ph papers from INSPIRE (2000–2025) using SPECTER2 embeddings
+- Quantified the novelty–impact relationship via cosine distance from rolling field centroids; found consistently negative correlation across all subfields
+- Trained a linear classifier on frozen SPECTER2 representations (ROC-AUC ~0.67); temporal train/test split to prevent leakage; out-of-sample prediction on 2025 papers
+
 ### [Automatic Keyword Tagging for hep-ph Papers](https://github.com/rebalkin/ML/tree/main/hep_ph_keyword_tagging)
 - Multilabel classification of hep-ph abstracts predicting INSPIRE-style keywords
 - Built end-to-end pipeline: data collection via the INSPIRE API, label normalization, TF-IDF feature extraction, One-vs-Rest logistic regression, threshold tuning on a dedicated CV set

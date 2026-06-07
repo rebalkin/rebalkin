@@ -2,7 +2,7 @@
 
 I'm a theoretical physicist finishing a postdoc at **UC Santa Cruz** (PhD from TU Munich), working on **AI/ML research** and quantitative modeling, with projects in ML theory, natural language processing, and financial modeling.
 
-I'm currently seeking **AI/ML research and quantitative research roles** in the Bay Area.
+I'm currently seeking **AI/ML research and quantitative research roles**.
 
 Publications: [INSPIRE](https://inspirehep.net/authors/1657351?ui-citation-summary=true) · [Google Scholar](https://scholar.google.com/citations?user=W6hH4GAAAAAJ&hl=en)
 
